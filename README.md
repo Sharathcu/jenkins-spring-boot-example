@@ -1,1 +1,0 @@
-# jenkins-spring-boot-example
